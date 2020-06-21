@@ -1,5 +1,7 @@
 # Dracula Preview Theme
-
+  
+![Dracula Syntax](https://raw.githubusercontent.com/TaylanTatli/inkdrop-dracula-preview-theme/master/preview.png)
+  
 [Dracula Theme](https://draculatheme.com)
 
 Dracula Markdown preview theme for [Inkdrop](https://www.inkdrop.info/).

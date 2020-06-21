@@ -1,9 +1,11 @@
-# Github Preview Theme
+# Dracula Preview Theme
 
-A default Markdown preview theme for [Inkdrop](https://www.inkdrop.info/).
+[Dracula Theme](https://draculatheme.com)
 
- * `styles/github-markdown.less` - Styles for light UI theme
- * `styles/github-markdown-dark.less` - Styles for dark UI theme
+Dracula Markdown preview theme for [Inkdrop](https://www.inkdrop.info/).
+
+ * `styles/dracula-markdown.less` - Styles for light UI theme
+ * `styles/dracula-markdown-dark.less` - Styles for dark UI theme
 
 ## Theming code blocks
 
